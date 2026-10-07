@@ -1,0 +1,121 @@
+<!DOCTYPE html> 
+
+<html lang="en"> 
+
+<head> 
+
+    <meta charset="UTF-8"> 
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>Loaf & Lantern Bakery - Home</title> 
+
+</head> 
+
+<body> 
+
+  
+
+    <header> 
+
+        <img src="bakery-logo.png" alt="Loaf and Lantern brand mark with a small wheat design over a brick oven graphic"> 
+
+        <h1>Loaf & Lantern Bakery</h1> 
+
+        <nav> 
+
+            <ul> 
+
+                <li><a href="index.html">Home</a></li> 
+
+                <li><a href="products.html">Our Menu</a></li> 
+
+                <li><a href="about.html">Our Story</a></li> 
+
+                <li><a href="contact.html">Pre-Orders</a></li> 
+
+            </ul> 
+
+        </nav> 
+
+    </header> 
+
+  
+
+    <main> 
+
+        <section> 
+
+            <h2>Fresh Sourdough & Pastries in Your Neighborhood</h2> 
+
+            <p>Hey there! Welcome to Loaf & Lantern. We're a small, locally owned bakery focused on simple, old-school baking methods. Every morning, our team gets to work way before sunrise to make sure morning commuters, neighborhood families, and local event planners can grab warm, scratch-made goods right when they need them.</p> 
+
+             
+
+            <h3>An Audio Update From Our Baker</h3> 
+
+            <audio controls> 
+
+                <source src="bakery-welcome.mp3" type="audio/mpeg"> 
+
+                Your browser isn't showing the audio player. Basically, our audio track is a quick greeting from the kitchen inviting you to stop by for fresh daily samples and explaining how we mix our doughs by hand. 
+
+            </audio> 
+
+        </section> 
+
+  
+
+        <section> 
+
+            <h2>The Local Favorites</h2> 
+
+            <p>People mostly head our way for the traditional European sourdough loaves. We also keep the display case stocked with flaky croissants for the early morning rush, plus custom cakes if you are organizing a local party or family gathering.</p> 
+
+        </section> 
+
+  
+
+        <section> 
+
+            <h2>This Week's Baking Feature</h2> 
+
+            <p>We use whatever fruits and grains are currently in season for our weekly specials.</p> 
+
+            <picture> 
+
+                <source media="(min-width: 800px)" srcset="bakery-feature-large.jpg"> 
+
+                <img src="bakery-feature-small.jpg" alt="A freshly baked seasonal fruit tart topped with a light glaze on a cutting board"> 
+
+            </picture> 
+
+        </section> 
+
+  
+
+        <section> 
+
+            <h2>Find Us</h2> 
+
+            <p><strong>Shop Address:</strong> 789 Meridian Lane (Right near the corner station)</p> 
+
+            <p><strong>Weekly Hours:</strong> Tuesday through Sunday, 6:00 AM to 4:00 PM. We take Mondays off to prep for the week.</p> 
+
+        </section> 
+
+    </main> 
+
+  
+
+    <footer> 
+
+        <p>&copy; 2026 Loaf & Lantern Bakery. Keeping things local.</p> 
+
+    </footer> 
+
+  
+
+</body> 
+
+</html> 
